@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    background-color: black;
+    color: #FFFFFF;
+    font-family:'inter';
+}
+
+#img-logo{
+    margin-top: 52px;
+    margin-left: 56px;
+    width: 125px;
+    height: 62px;
+}
+
+#text{
+    margin-top: 50px;
+    margin-left: 172px;
+    width: 536px;
+    height: 102px;
+    font-weight: 400;
+    size: 40px;
+    line-height: 51.4px;
+    letter-spacing: 0%;
+    position: absolute;
+}
+
+#text-baixo{
+    position: absolute;
+    margin-top: 319px;
+    margin-left: 172px;
+    width: 536px;
+    height: 90px;
+    font-weight: 400;
+    size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+}
+
+.container{
+    position: relative;
+    display: inline-block;
+}
+
+.fundo{
+    display: block;
+    width: 1440px;
+    height: 560px;
+    scale: crop;
+    position: absolute;
+}
