@@ -1,6 +1,7 @@
 *{
     margin: 0;
     background-color: black;
+    background-image: url(img-fundo.svg);
     color: #FFFFFF;
     font-family:'inter';
 }
@@ -14,37 +15,12 @@
 
 #text{
     margin-top: 50px;
-    margin-left: 172px;
-    width: 536px;
-    height: 102px;
-    font-weight: 400;
-    size: 40px;
-    line-height: 51.4px;
-    letter-spacing: 0%;
+    margin-left: 150px;
     position: absolute;
 }
 
 #text-baixo{
     position: absolute;
-    margin-top: 319px;
-    margin-left: 172px;
-    width: 536px;
-    height: 90px;
-    font-weight: 400;
-    size: 20px;
-    line-height: 30px;
-    letter-spacing: 0%;
-}
-
-.container{
-    position: relative;
-    display: inline-block;
-}
-
-.fundo{
-    display: block;
-    width: 1440px;
-    height: 560px;
-    scale: crop;
-    position: absolute;
+    margin-top: 160px;
+    margin-left: 150px;
 }
